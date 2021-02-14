@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70" width="70" height="70">
+	<defs>
+		<image width="67" height="67" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAABDCAMAAADwFEhBAAAAAXNSR0IB2cksfwAAARpQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////cvwoZQAAAF50Uk5TAAISIDdQXmIHKnWv1ez6/wQtfdt8C1Gu90jD/h2o/BwBZPb1D6DBLNfhEMKiZRtM/QzGUgWwLviBgAjd+yt5sgPY7SE6OVNgX7Mvq6QR4qalqU35MIPcgnu0O1RhZxqtanUAAAKCSURBVHicpdh5X9owGAfwUNShKJE5LwpaVhV0MrnETYpQqt3hsXls89r7fxtLC6zpkfR56O8/0vT7SdM0B4SIk1LSM7Nzb+ZmZ9JKSlJPlMz8QnZxKUdHyS0tZhfmMxhgOf92ZXK7l9zKu/wyUFhdW98IAaNsrK+tQojNgioQnKiFzVihWNqSCE62SttSQSu/jxGc6GUJsbMLEJzs7oiI9B6QoHQvHU1UqmCC0molisjvIwhK9/MRD4JphduS0OMcfEASrE8OAi/1EE1Qeqj5jJp3hf2CIr5xsq1zAgEr+kfOKPGtQCAljziqBwmgUT+a1G80Q82AdkmzMa7f8j52rKG2RtXbx14Z1qDZ0czWOeHKsMZJx63+yVeIIyj97FQ/7cJviEj3lBkVI5Fh9Jhxloig9IwZfeFV2EvqEzIwI+8L/RCC1RRRhhCD+7aCyFAhlhFvBOI3DIucR/eBzAggF8RObLTIlykMP/KVlBMbZWA7/BeD7QD1B5UZLdB7ib46yTlofEgNNj5g41RisHEK/V6Ehjkg5FtCg323gfkDbzjzR89IZLjzmH8+RRvufOqf19GGO6+T78L1BWCM1xd+nUMbx+1Ria1Obaj2uIRb97HG/3Wf238gDW//QcjllMalR5BicD8GM/QiZ/D7QkRqPEG0qymIK81nkOsCmihck0AsM/4uX8yI40f+BkXcRJwb2L4M0xKzE0Ww4we8TwqCcxTr2B9A4meoO7lXXNPjAXau1MQES/G2HiPUb+XnWyd3Tek5u3kXK7A07P69QLjv2414wE374Vc3vGvN/f7z0AYKbjK9xydzOIGMofn02EP9/zHOQLGeX17/vr48W8pAUu8f1rjI+LVv42QAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="linkedin-icon-seeklogo-ai.psd" href="#img1" x="1" y="2" />
+</svg>
