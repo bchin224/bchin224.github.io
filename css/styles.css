@@ -7742,7 +7742,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important;
+  padding-top: 2rem !important;
 }
 
 .pr-5,
@@ -7752,7 +7752,7 @@ button.bg-dark:focus {
 
 .pb-5,
 .py-5 {
-  padding-bottom: 3rem !important;
+  padding-bottom: 2rem !important;
 }
 
 .pl-5,
@@ -10007,7 +10007,7 @@ hr.light {
 }
 
 .page-section {
-  padding: 2rem 0;
+  padding: 3rem 0;
 }
 
 #mainNav {
@@ -10028,10 +10028,10 @@ hr.light {
   padding: 0.75rem 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #a3fa70;
+  color: #60b031;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #a3fa70 !important;
+  color: #60b031 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10123,7 +10123,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: rgba(96, 176, 49, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
