@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #f4623a;
+  color: #fff;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #d6370c;
+  color: #a3fa70;
   text-decoration: underline;
 }
 
@@ -6072,9 +6072,9 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
-.bg-primary {
+/* .bg-primary {
   background-color: #545b62 !important;
-}
+} */
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -9986,7 +9986,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #a3fa70;
 }
 
 hr.light {
