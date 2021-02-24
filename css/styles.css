@@ -9998,7 +9998,7 @@ hr.light {
 }
 
 .btn-xl {
-  padding: 1.25rem 2.25rem;
+  padding: 1rem 2rem;
   font-size: 0.85rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -10123,7 +10123,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(96, 176, 49, 0.9);
+  background: rgba(63, 138, 19, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
