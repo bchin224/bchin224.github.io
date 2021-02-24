@@ -6073,13 +6073,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #545b62 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #ee3e0d !important;
+  background-color: #22288a !important;
 }
 
 .bg-secondary {
@@ -6129,7 +6129,7 @@ button.bg-warning:focus {
 a.bg-danger:hover, a.bg-danger:focus,
 button.bg-danger:hover,
 button.bg-danger:focus {
-  background-color: #bd2130 !important;
+  background-color: #22288a !important;
 }
 
 .bg-light {
@@ -6201,7 +6201,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #f4623a !important;
+  border-color: #22288a !important;
 }
 
 .border-secondary {
